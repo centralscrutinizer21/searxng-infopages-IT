@@ -1,14 +1,13 @@
 # Informazioni su SearXNG
 
-SearXNG è un [metamotore di ricerca] che aggrega i risultati di altri motori di
-ricerca.  {{link('motori di ricerca', 'preferences')}} e non memorizza
+SearXNG è un [metamotore di ricerca] che aggrega i risultati di altri {{link('motori di ricerca', 'preferences')}} e non memorizza
 informazioni sui suoi utenti.
 
 Il progetto SearXNG è guidato da una comunità aperta, unisciti a noi su Matrix
 se hai domande o vuoi semplicemente chiacchierare.  Se avete domande o volete
 semplicemente parlare di SearXNG a [#searxng:matrix.org].
 
-Migliorate SearXNG.
+Migliorare SearXNG.
 
 - Potete migliorare le traduzioni di SearXNG su [Weblate], oppure...
 - Seguire lo sviluppo, inviare contributi e segnalare problemi a [sorgenti di
@@ -57,7 +56,7 @@ ricerche su altre piattaforme senza memorizzare i dati di ricerca.  SearXNG può
 essere aggiunto alla barra di ricerca del browser; inoltre, può essere impostato
 come motore di ricerca predefinito.
 
-Il {{link('statistiche', 'stats')}} contiene alcune utili statistiche anonime di
+La pagina {{link('statistiche', 'stats')}} contiene alcune utili statistiche anonime di
 utilizzo dei motori utilizzati.
 
 ## Come posso renderlo mio?
